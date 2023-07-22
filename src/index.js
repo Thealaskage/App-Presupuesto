@@ -1,12 +1,12 @@
 let ingresos = [
-    new Ingreso("Sueldo", 2200),
+    new Ingreso("Sueldo Mensual", 2200),
     new Ingreso("Venta Coche", 2500),
-    new Ingreso("Pinga", 100)
+    new Ingreso("Préstamo", 100)
 ];
 
 let egresos = [
-    new Egreso("La Puta Fama", 800),
-    new Egreso("Pinga", 400)
+    new Egreso("Comida", 800),
+    new Egreso("Renta", 400)
 ];
 
 let cargarApp = () => {
